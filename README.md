@@ -82,3 +82,6 @@ Kevin Andres Malaver Cobos 20171020001
   4. Se produce una excepcion lanzando el manejador de excepciones presentando el mensaje al usuario.
 
 ![Editar entidad](https://github.com/Forson666/Requerimientos-generales-banco-de-preguntas/blob/master/req%201.6.JPG)
+
+## Diagrama de clases:
+![Diagrama clases](https://github.com/Forson666/Requerimientos-generales-banco-de-preguntas/blob/master/Diagrama%20de%20clases.JPG)
